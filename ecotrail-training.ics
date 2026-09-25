@@ -1,0 +1,284 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//EcoTrail Paris 2027 Training//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Preparation EcoTrail Paris 2027
+X-WR-TIMEZONE:Europe/Paris
+
+BEGIN:VEVENT
+UID:ecotrail-20260928-renfo-a@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Renforcement A - 10 a 15 min
+DESCRIPTION:Squats 2x12 (repos 15-20 s)\nFentes arriere 2x8/jambe (repos 20-30 s)\nPont fessier 2x15 (repos 15-20 s)\nElevations de mollets jambes tendues 2x15 (repos 20-30 s)\nPlanche ventrale 2x30-40 s (repos 30 s)\nObjectif : mouvements lents et controles. Arreter un exercice si une douleur articulaire nette augmente.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20260929-ef@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Course EF - 35 min
+DESCRIPTION:Endurance fondamentale 35 min. Terrain plutot plat. Effort conversationnel tres facile. Pas d'objectif d'allure ni de FC. Surveiller les genoux.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20260930-rest@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Repos - pas de football
+DESCRIPTION:Semaine de reprise : pas de football afin d'eviter encore les fortes torsions et changements de direction.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261001-coach@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Seance coach - adaptee genou
+DESCRIPTION:Seance avec coach. Signaler la blessure recente et toute douleur. Eviter les mouvements provoquant une douleur articulaire nette et les fortes torsions si le genou n'est pas encore totalement rassurant.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261002-rest@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Repos
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261003-ef@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:Course EF - 30 min
+DESCRIPTION:Endurance fondamentale 30 min. Terrain plat si possible. Effort conversationnel tres facile. Cette deuxieme EF doit rester plus facile que celle du mardi.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261004-rest@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:Repos
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ecotrail-20261005-renfo-a@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Renforcement A - 10 a 15 min
+DESCRIPTION:Squats 2x12 (repos 15-20 s)\nFentes arriere 2x8/jambe (repos 20-30 s)\nPont fessier 2x15 (repos 15-20 s)\nElevations de mollets jambes tendues 2x15 (repos 20-30 s)\nPlanche ventrale 2x30-40 s (repos 30 s).
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261006-ef@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Course EF - 40 min
+DESCRIPTION:Endurance fondamentale 40 min. Effort conversationnel. Terrain plutot plat. Pas d'objectif d'allure ni de FC.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261007-foot@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Football - reprise conditionnelle
+DESCRIPTION:Reprendre uniquement si les genoux sont asymptomatiques jusque-la. Rester attentif aux pivots et changements de direction. Si douleur ou instabilite : ne pas jouer.
+STATUS:TENTATIVE
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261008-coach@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Seance coach
+DESCRIPTION:Seance habituelle avec adaptation si douleur ou fatigue residuelle.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261009-rest@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Repos
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261010-ef@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:Course EF - 30 min
+DESCRIPTION:Endurance fondamentale 30 min. Effort tres facile et conversationnel. Terrain plat.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261011-rest@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Repos
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ecotrail-20261012-renfo-a@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Renforcement A - 10 a 15 min
+DESCRIPTION:Squats 2x12\nFentes arriere 2x8/jambe\nPont fessier 2x15\nElevations de mollets jambes tendues 2x15\nPlanche ventrale 2x30-40 s. Repos courts selon la routine validee.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261013-ef@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Course EF - 45 min
+DESCRIPTION:Endurance fondamentale standard 45 min. Effort conversationnel. Ne pas chercher a battre l'allure des sorties precedentes.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261014-foot@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Football
+DESCRIPTION:Seance habituelle si absence de douleur ou instabilite du genou.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261015-coach@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Seance coach
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261016-renfo-b@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Renforcement B - 10 a 12 min
+DESCRIPTION:Pont fessier a une jambe 2x8/jambe (repos 20 s)\nSquats 2x10 (repos 20 s)\nElevations de mollets a une jambe 2x10/jambe (repos 20-30 s)\nElevations de mollets genoux flechis 2x12 (repos 20 s)\nPlanche ventrale 2x30 s (repos 30 s). Facultatif si fatigue importante.
+STATUS:TENTATIVE
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261017-ef@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:Course EF - 35 min
+DESCRIPTION:Endurance fondamentale 35 min. Tres facile. Si la fatigue de la semaine est importante, raccourcir ou supprimer cette seance.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261018-rest@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Repos
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ecotrail-20261019-renfo-a@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Renforcement A leger
+DESCRIPTION:Routine A en restant facile. Ne pas chercher a augmenter les repetitions ou la difficulte pendant cette semaine allegee.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261020-ef@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Course EF - 40 min
+DESCRIPTION:Endurance fondamentale 40 min. Semaine legerement allegee. Effort conversationnel.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261021-foot@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Football
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261022-coach@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Seance coach
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261023-rest@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Repos
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261024-ef@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Course EF - 30 min facultative
+DESCRIPTION:EF 30 min tres facile. Facultative : supprimer si fatigue, douleur ou besoin de recuperation.
+STATUS:TENTATIVE
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-20261025-rest@training.openai.local
+DTSTAMP:20260925T125500Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Repos - bilan du bloc de reprise
+DESCRIPTION:Bilan : tolerance des genoux, fatigue, EF, football, coach et renforcement. Adapter la suite du programme avant de poursuivre.
+STATUS:CONFIRMED
+SEQUENCE:0
+END:VEVENT
+
+END:VCALENDAR
