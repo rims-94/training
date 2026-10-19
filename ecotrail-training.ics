@@ -5,14 +5,17 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Preparation EcoTrail Paris 2027
 X-WR-TIMEZONE:Europe/Paris
-
 BEGIN:VEVENT
 UID:ecotrail-20260928-renfo-a@training.openai.local
 DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Renforcement A - 10 a 15 min
-DESCRIPTION:Squats 2x12 (repos 15-20 s)\nFentes arriere 2x8/jambe (repos 20-30 s)\nPont fessier 2x15 (repos 15-20 s)\nElevations de mollets jambes tendues 2x15 (repos 20-30 s)\nPlanche ventrale 2x30-40 s (repos 30 s)\nObjectif : mouvements lents et controles. Arreter un exercice si une douleur articulaire nette augmente.
+DESCRIPTION:Squats 2x12 (repos 15-20 s)\nFentes arriere 2x8/jambe (repos 20
+ -30 s)\nPont fessier 2x15 (repos 15-20 s)\nElevations de mollets jambes te
+ ndues 2x15 (repos 20-30 s)\nPlanche ventrale 2x30-40 s (repos 30 s)\nObjec
+ tif : mouvements lents et controles. Arreter un exercice si une douleur ar
+ ticulaire nette augmente.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -22,7 +25,9 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Course EF - 35 min
-DESCRIPTION:Endurance fondamentale 35 min. Terrain plutot plat. Effort conversationnel tres facile. Pas d'objectif d'allure ni de FC. Surveiller les genoux.
+DESCRIPTION:Endurance fondamentale 35 min. Terrain plutot plat. Effort conv
+ ersationnel tres facile. Pas d'objectif d'allure ni de FC. Surveiller les 
+ genoux.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -32,7 +37,8 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Repos - pas de football
-DESCRIPTION:Semaine de reprise : pas de football afin d'eviter encore les fortes torsions et changements de direction.
+DESCRIPTION:Semaine de reprise : pas de football afin d'eviter encore les f
+ ortes torsions et changements de direction.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -42,7 +48,9 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Seance coach - adaptee genou
-DESCRIPTION:Seance avec coach. Signaler la blessure recente et toute douleur. Eviter les mouvements provoquant une douleur articulaire nette et les fortes torsions si le genou n'est pas encore totalement rassurant.
+DESCRIPTION:Seance avec coach. Signaler la blessure recente et toute douleu
+ r. Eviter les mouvements provoquant une douleur articulaire nette et les f
+ ortes torsions si le genou n'est pas encore totalement rassurant.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -61,7 +69,9 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Course EF - 30 min
-DESCRIPTION:Endurance fondamentale 30 min. Terrain plat si possible. Effort conversationnel tres facile. Cette deuxieme EF doit rester plus facile que celle du mardi.
+DESCRIPTION:Endurance fondamentale 30 min. Terrain plat si possible. Effort
+  conversationnel tres facile. Cette deuxieme EF doit rester plus facile qu
+ e celle du mardi.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -74,14 +84,15 @@ SUMMARY:Repos
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
-
 BEGIN:VEVENT
 UID:ecotrail-20261005-renfo-a@training.openai.local
 DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Renforcement A - 10 a 15 min
-DESCRIPTION:Squats 2x12 (repos 15-20 s)\nFentes arriere 2x8/jambe (repos 20-30 s)\nPont fessier 2x15 (repos 15-20 s)\nElevations de mollets jambes tendues 2x15 (repos 20-30 s)\nPlanche ventrale 2x30-40 s (repos 30 s).
+DESCRIPTION:Squats 2x12 (repos 15-20 s)\nFentes arriere 2x8/jambe (repos 20
+ -30 s)\nPont fessier 2x15 (repos 15-20 s)\nElevations de mollets jambes te
+ ndues 2x15 (repos 20-30 s)\nPlanche ventrale 2x30-40 s (repos 30 s).
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -91,7 +102,8 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Course EF - 40 min
-DESCRIPTION:Endurance fondamentale 40 min. Effort conversationnel. Terrain plutot plat. Pas d'objectif d'allure ni de FC.
+DESCRIPTION:Endurance fondamentale 40 min. Effort conversationnel. Terrain 
+ plutot plat. Pas d'objectif d'allure ni de FC.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -101,7 +113,9 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Football - reprise conditionnelle
-DESCRIPTION:Reprendre uniquement si les genoux sont asymptomatiques jusque-la. Rester attentif aux pivots et changements de direction. Si douleur ou instabilite : ne pas jouer.
+DESCRIPTION:Reprendre uniquement si les genoux sont asymptomatiques jusque-
+ la. Rester attentif aux pivots et changements de direction. Si douleur ou 
+ instabilite : ne pas jouer.
 STATUS:TENTATIVE
 SEQUENCE:0
 END:VEVENT
@@ -111,7 +125,8 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Seance coach
-DESCRIPTION:Seance habituelle avec adaptation si douleur ou fatigue residuelle.
+DESCRIPTION:Seance habituelle avec adaptation si douleur ou fatigue residue
+ lle.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -130,7 +145,8 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Course EF - 30 min
-DESCRIPTION:Endurance fondamentale 30 min. Effort tres facile et conversationnel. Terrain plat.
+DESCRIPTION:Endurance fondamentale 30 min. Effort tres facile et conversati
+ onnel. Terrain plat.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -143,14 +159,15 @@ SUMMARY:Repos
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
-
 BEGIN:VEVENT
 UID:ecotrail-20261012-renfo-a@training.openai.local
 DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Renforcement A - 10 a 15 min
-DESCRIPTION:Squats 2x12\nFentes arriere 2x8/jambe\nPont fessier 2x15\nElevations de mollets jambes tendues 2x15\nPlanche ventrale 2x30-40 s. Repos courts selon la routine validee.
+DESCRIPTION:Squats 2x12\nFentes arriere 2x8/jambe\nPont fessier 2x15\nEleva
+ tions de mollets jambes tendues 2x15\nPlanche ventrale 2x30-40 s. Repos co
+ urts selon la routine validee.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -160,7 +177,8 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Course EF - 45 min
-DESCRIPTION:Endurance fondamentale standard 45 min. Effort conversationnel. Ne pas chercher a battre l'allure des sorties precedentes.
+DESCRIPTION:Endurance fondamentale standard 45 min. Effort conversationnel.
+  Ne pas chercher a battre l'allure des sorties precedentes.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -170,7 +188,8 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Football
-DESCRIPTION:Seance habituelle si absence de douleur ou instabilite du genou.
+DESCRIPTION:Seance habituelle si absence de douleur ou instabilite du genou
+ .
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -189,7 +208,10 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Renforcement B - 10 a 12 min
-DESCRIPTION:Pont fessier a une jambe 2x8/jambe (repos 20 s)\nSquats 2x10 (repos 20 s)\nElevations de mollets a une jambe 2x10/jambe (repos 20-30 s)\nElevations de mollets genoux flechis 2x12 (repos 20 s)\nPlanche ventrale 2x30 s (repos 30 s). Facultatif si fatigue importante.
+DESCRIPTION:Pont fessier a une jambe 2x8/jambe (repos 20 s)\nSquats 2x10 (r
+ epos 20 s)\nElevations de mollets a une jambe 2x10/jambe (repos 20-30 s)\n
+ Elevations de mollets genoux flechis 2x12 (repos 20 s)\nPlanche ventrale 2
+ x30 s (repos 30 s). Facultatif si fatigue importante.
 STATUS:TENTATIVE
 SEQUENCE:0
 END:VEVENT
@@ -199,7 +221,8 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Course EF - 35 min
-DESCRIPTION:Endurance fondamentale 35 min. Tres facile. Si la fatigue de la semaine est importante, raccourcir ou supprimer cette seance.
+DESCRIPTION:Endurance fondamentale 35 min. Tres facile. Si la fatigue de la
+  semaine est importante, raccourcir ou supprimer cette seance.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -212,14 +235,14 @@ SUMMARY:Repos
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
-
 BEGIN:VEVENT
 UID:ecotrail-20261019-renfo-a@training.openai.local
 DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Renforcement A leger
-DESCRIPTION:Routine A en restant facile. Ne pas chercher a augmenter les repetitions ou la difficulte pendant cette semaine allegee.
+DESCRIPTION:Routine A en restant facile. Ne pas chercher a augmenter les re
+ petitions ou la difficulte pendant cette semaine allegee.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -229,7 +252,8 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Course EF - 40 min
-DESCRIPTION:Endurance fondamentale 40 min. Semaine legerement allegee. Effort conversationnel.
+DESCRIPTION:Endurance fondamentale 40 min. Semaine legerement allegee. Effo
+ rt conversationnel.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
@@ -266,7 +290,8 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Course EF - 30 min facultative
-DESCRIPTION:EF 30 min tres facile. Facultative : supprimer si fatigue, douleur ou besoin de recuperation.
+DESCRIPTION:EF 30 min tres facile. Facultative : supprimer si fatigue, doul
+ eur ou besoin de recuperation.
 STATUS:TENTATIVE
 SEQUENCE:0
 END:VEVENT
@@ -276,9 +301,308 @@ DTSTAMP:20260925T125500Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Repos - bilan du bloc de reprise
-DESCRIPTION:Bilan : tolerance des genoux, fatigue, EF, football, coach et renforcement. Adapter la suite du programme avant de poursuivre.
+DESCRIPTION:Bilan : tolerance des genoux, fatigue, EF, football, coach et r
+ enforcement. Adapter la suite du programme avant de poursuivre.
 STATUS:CONFIRMED
 SEQUENCE:0
 END:VEVENT
-
+BEGIN:VEVENT
+UID:ecotrail-b2-20261026-ef@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:EF 40 min
+DESCRIPTION:Endurance fondamentale 40 min. RPE 2-3/10\, conversation facile
+ . Terrain plat\, depart progressif 5-10 min. D+ indicatif 0-40 m. Si doule
+ ur\, arreter et reevaluer.
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261027-renfo-a@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Renfo A
+DESCRIPTION:Renfo A: squats lents 2x15\; fentes arriere 2x12/jambe\; pont f
+ essier maintien 2 s 2x15\; elevations laterales jambe 2x12/jambe\; mollets
+  2x15\; planche 2x40 s. Repos 20-30 s selon besoin. Technique prioritaire.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261028-foot@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Football 1 h
+DESCRIPTION:Football habituel. Adapter les accelerations et pivots selon fa
+ tigue et genoux. Semaine allegee: reduire intensite si possible.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261029-coach@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Coach 45-60 min
+DESCRIPTION:Seance coach habituelle. Signaler la charge jambes de la semain
+ e\; reduire sauts/sprints si fatigue. Semaine allegee: demander une versio
+ n plus legere.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261030-optional@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Repos / Renfo B facultatif
+DESCRIPTION:Repos recommande. Renfo B seulement si recuperation complete et
+  sans douleur\; ne pas compenser les seances manquees.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261031-long@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Sortie longue EF 50 min
+DESCRIPTION:Endurance fondamentale 50 min. RPE 2-3/10\; conversation facile
+ \; debut tres progressif. Terrain facile\, D+ indicatif 20-80 m. Marche po
+ ssible en cote. Apporter de l eau selon conditions. Stop si douleur.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261101-rest@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Repos
+DESCRIPTION:Repos et bilan recuperation: genoux\, courbatures\, fatigue gen
+ erale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261102-ef@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:EF 45 min
+DESCRIPTION:Endurance fondamentale 45 min. RPE 2-3/10\, conversation facile
+ . Terrain plat\, depart progressif 5-10 min. D+ indicatif 0-40 m. Si doule
+ ur\, arreter et reevaluer.
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261103-renfo-a@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Renfo A
+DESCRIPTION:Renfo A: squats lents 2x15\; fentes arriere 2x12/jambe\; pont f
+ essier maintien 2 s 2x15\; elevations laterales jambe 2x12/jambe\; mollets
+  2x15\; planche 2x40 s. Repos 20-30 s selon besoin. Technique prioritaire.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261104-foot@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Football 1 h
+DESCRIPTION:Football habituel. Adapter les accelerations et pivots selon fa
+ tigue et genoux. Semaine allegee: reduire intensite si possible.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261105-coach@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Coach 45-60 min
+DESCRIPTION:Seance coach habituelle. Signaler la charge jambes de la semain
+ e\; reduire sauts/sprints si fatigue. Semaine allegee: demander une versio
+ n plus legere.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261106-optional@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Repos / Renfo B facultatif
+DESCRIPTION:Repos recommande. Renfo B seulement si recuperation complete et
+  sans douleur\; ne pas compenser les seances manquees.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261107-long@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Sortie longue EF 55 min
+DESCRIPTION:Endurance fondamentale 55 min. RPE 2-3/10\; conversation facile
+ \; debut tres progressif. Terrain facile\, D+ indicatif 20-80 m. Marche po
+ ssible en cote. Apporter de l eau selon conditions. Stop si douleur.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261108-rest@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Repos
+DESCRIPTION:Repos et bilan recuperation: genoux\, courbatures\, fatigue gen
+ erale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261109-ef@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:EF 45 min
+DESCRIPTION:Endurance fondamentale 45 min. RPE 2-3/10\, conversation facile
+ . Terrain plat\, depart progressif 5-10 min. D+ indicatif 0-40 m. Si doule
+ ur\, arreter et reevaluer.
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261110-renfo-a@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Renfo A
+DESCRIPTION:Renfo A: squats lents 2x15\; fentes arriere 2x12/jambe\; pont f
+ essier maintien 2 s 2x15\; elevations laterales jambe 2x12/jambe\; mollets
+  2x15\; planche 2x40 s. Repos 20-30 s selon besoin. Technique prioritaire.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261111-foot@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:Football 1 h
+DESCRIPTION:Football habituel. Adapter les accelerations et pivots selon fa
+ tigue et genoux. Semaine allegee: reduire intensite si possible.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261112-coach@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Coach 45-60 min
+DESCRIPTION:Seance coach habituelle. Signaler la charge jambes de la semain
+ e\; reduire sauts/sprints si fatigue. Semaine allegee: demander une versio
+ n plus legere.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261113-optional@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Repos / Renfo B facultatif
+DESCRIPTION:Repos recommande. Renfo B seulement si recuperation complete et
+  sans douleur\; ne pas compenser les seances manquees.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261114-long@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:Sortie longue EF 65 min
+DESCRIPTION:Endurance fondamentale 65 min. RPE 2-3/10\; conversation facile
+ \; debut tres progressif. Terrain facile\, D+ indicatif 20-80 m. Marche po
+ ssible en cote. Apporter de l eau selon conditions. Stop si douleur.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261115-rest@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Repos
+DESCRIPTION:Repos et bilan recuperation: genoux\, courbatures\, fatigue gen
+ erale.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261116-ef@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:EF 35 min
+DESCRIPTION:Endurance fondamentale 35 min. RPE 2-3/10\, conversation facile
+ . Terrain plat\, depart progressif 5-10 min. D+ indicatif 0-40 m. Si doule
+ ur\, arreter et reevaluer.
+STATUS:CONFIRMED
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261117-renfo-a@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Renfo A (allege)
+DESCRIPTION:Renfo A allege: 1 serie de chaque exercice\, sans fatigue resid
+ uelle.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261118-foot@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Football 1 h
+DESCRIPTION:Football habituel. Adapter les accelerations et pivots selon fa
+ tigue et genoux. Semaine allegee: reduire intensite si possible.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261119-coach@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Coach 45-60 min
+DESCRIPTION:Seance coach habituelle. Signaler la charge jambes de la semain
+ e\; reduire sauts/sprints si fatigue. Semaine allegee: demander une versio
+ n plus legere.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261120-optional@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Repos / Renfo B facultatif
+DESCRIPTION:Repos recommande. Renfo B seulement si recuperation complete et
+  sans douleur\; ne pas compenser les seances manquees.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261121-long@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Sortie longue EF 45 min
+DESCRIPTION:Endurance fondamentale 45 min. RPE 2-3/10\; conversation facile
+ \; debut tres progressif. Terrain facile\, D+ indicatif 20-80 m. Marche po
+ ssible en cote. Apporter de l eau selon conditions. Stop si douleur.
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ecotrail-b2-20261122-rest@training.local
+DTSTAMP:20261019T120000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Repos
+DESCRIPTION:Repos et bilan recuperation: genoux\, courbatures\, fatigue gen
+ erale.
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
